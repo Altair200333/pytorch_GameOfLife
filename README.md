@@ -3,7 +3,7 @@
 
 [the very basic model](https://github.com/Altair200333/pytorch_GameOfLife/blob/main/gameLifeNN_BaseLine.ipynb)
 
-[more complex model](https://github.com/Altair200333/pytorch_GameOfLife/blob/main/gameOfLife_test.ipynb)
+[more complex model](https://github.com/Altair200333/pytorch_GameOfLife/blob/main/gameOfLife_test.ipynb)<br>
 validation accuracy: 0.999778
 
 [**model that seems to do a good job predicting game**](https://github.com/Altair200333/pytorch_GameOfLife/blob/main/gameOfLife_more_compex.ipynb)<br>
