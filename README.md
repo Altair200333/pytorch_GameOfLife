@@ -4,10 +4,13 @@
 [the very basic model](https://github.com/Altair200333/pytorch_GameOfLife/blob/main/gameLifeNN_BaseLine.ipynb)
 
 [more complex model](https://github.com/Altair200333/pytorch_GameOfLife/blob/main/gameOfLife_test.ipynb)
+validation accuracy: 0.999778
 
 [**model that seems to do a good job predicting game**](https://github.com/Altair200333/pytorch_GameOfLife/blob/main/gameOfLife_more_compex.ipynb)
+validation accuracy: 0.999981
 
 [model predicting game two steps ahead](https://github.com/Altair200333/pytorch_GameOfLife/blob/main/gameOfLife_predict_skip_2.ipynb)
+validation accuracy: 0.999993
 
 ------------
 
